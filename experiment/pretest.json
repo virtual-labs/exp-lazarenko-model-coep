@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "In EDM process the crater depth is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Not related to crater diameter",
+        "b": "Less than crater diameter",
+        "c": "More than crater diameter",
+        "d": "Equal to crater diameter"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The metal removal rate in Electrical Discharge Machining (EDM) process is more when",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Independent of tool material",
+        "b": "Tool material is a bad conductor",
+        "c": "The tool material is harder",
+        "d": "The tool material is softer"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The metal removal rate is dependent on",
+      "answers": {
+        "a": "Pulse width",
+        "b": "Current passing",
+        "c": "applied voltage",
+        "d": "All of the above"
       },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In MRR estimation Lazeranko’s model considers",
+      "answers": {
+        "a": "Convection mode of heat transfer",
+        "b": "Radiation mode of heat transfer",
+        "c": "All of the above",
+        "d": "None of the above"
+      },
+      
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In EDM, the machining rate using a given tool is more",
+      "answers": {
+        "a": "For softer material",
+        "b": "Independent of material properties",
+        "c": "Non conductive materials",
+        "d": "For harder material"
+      },
+      
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
