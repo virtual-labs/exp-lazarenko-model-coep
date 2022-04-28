@@ -2,37 +2,61 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "In EDM process generally the erosion in most of the materials is higher",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "with reverse polarity",
+        "b": "irrespective of the polarity",
+        "c": "with direct polarity",
+        "d": "none of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The breakdown of EDM fluid is due to",
+      "answers": {
+        "a": "intrinsic",
+        "b": "avalanche",
+        "c": "ionic",
+        "d": "all of the above"
       },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Is Lazeranko’s model",
+      "answers": {
+        "a": "Semi analytical",
+        "b": "Analytical",
+        "c": "Semi emperical",
+        "d": "Empirical"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Can taper be calculated by Lazeranko’s model",
+      "answers": {
+        "a": "Yes",
+        "b": "No",
+        "c": "Not applicable"
+      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Can surface finish be evaluated form Lazeranko’s model",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "No",
+        "b": "Yes",
+        "c": "Not relevant"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
