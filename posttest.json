@@ -1,0 +1,63 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "In EDM process generally the erosion in most of the materials is higher",
+      "answers": {
+        "a": "with reverse polarity",
+        "b": "irrespective of the polarity",
+        "c": "with direct polarity",
+        "d": "none of the above"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The breakdown of EDM fluid is due to",
+      "answers": {
+        "a": "intrinsic",
+        "b": "avalanche",
+        "c": "ionic",
+        "d": "all of the above"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Is Lazeranko’s model",
+      "answers": {
+        "a": "Semi analytical",
+        "b": "Analytical",
+        "c": "Semi emperical",
+        "d": "Empirical"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Can taper be calculated by Lazeranko’s model",
+      "answers": {
+        "a": "Yes",
+        "b": "No",
+        "c": "Not applicable"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Can surface finish be evaluated form Lazeranko’s model",
+      "answers": {
+        "a": "No",
+        "b": "Yes",
+        "c": "Not relevant"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
